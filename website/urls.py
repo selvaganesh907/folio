@@ -16,5 +16,5 @@ urlpatterns = [
     path('contact/', views.contact, name='contact'),
     
     
-    path('psbutton/', views.psbutton, name='psbutton'),
+    
 ]
