@@ -60,5 +60,3 @@ def contact_view(request):
 
 
 
-def psbutton(request):
-    return render(request, 'psbutton.html')
